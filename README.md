@@ -22,6 +22,7 @@ TempInnerDeps : building_dependency
 TempOuterDeps : building_dependency
 CompilationBackend : cmake / make / ninja / scripts ...
 ```
+note : Deps fields are optional and accepts multiple dependencies, just report them space delimited.
 
 ## How to publish a Harpoon package ?
 
