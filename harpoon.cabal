@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: e973a05df13203fbe287997611d41694e274a46e09eb3a5e7784a724944f3cea
+-- hash: 94f81d8db1aa75b3e0f429e557bac2fce3d5f5572b5545fefbc5c9f6d8f749dc
 
 name:           harpoon
 version:        0.1.0.0
@@ -27,7 +27,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Options
       Parser
   other-modules:
       Paths_harpoon
